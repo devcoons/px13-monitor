@@ -1,0 +1,10 @@
+{
+  "uuid": "px13-monitor@devcoons",
+  "name": "PX13 Monitor",
+  "url": "https://github.com/devcoons/px13-monitor",
+  "description": "Top-bar fan speed, CPU temperature, GPU temperature, and memory use. Sensors are discovered from hwmon.",
+  "shell-version": ["49", "50"],
+  "settings-schema": "org.gnome.shell.extensions.px13-monitor",
+  "gettext-domain": "px13-monitor",
+  "original-author": "devcoons"
+}

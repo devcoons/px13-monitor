@@ -1,0 +1,48 @@
+.px13-bar {
+    spacing: 14px;
+}
+
+.px13-inline {
+    spacing: 4px;
+}
+
+.px13-tag,
+.px13-value {
+    font-size: 1em;
+    font-weight: 500;
+    font-variant-numeric: tabular-nums;
+}
+
+.px13-high {
+    color: #f5d90a;
+}
+
+.px13-warn {
+    color: #ff8c00;
+}
+
+.px13-crit {
+    color: #ff4d4d;
+}
+
+.px13-history {
+    min-width: 360px;
+    spacing: 12px;
+    padding: 4px 2px;
+}
+
+.px13-chart-header {
+    spacing: 8px;
+}
+
+.px13-chart-title {
+    font-weight: 700;
+}
+
+.px13-chart-detail {
+    font-variant-numeric: tabular-nums;
+}
+
+.px13-chart {
+    height: 96px;
+}
